@@ -1,0 +1,1 @@
+word=['apple','banana','tiger','lion','tree']
